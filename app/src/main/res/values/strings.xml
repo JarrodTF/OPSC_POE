@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LeadingHealthFitnessApp</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_workout">Workout</string>
+    <string name="nav_diet">Diet</string>
+    <string name="nav_selfcare">Selfcare</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
